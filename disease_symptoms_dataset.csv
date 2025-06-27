@@ -1,0 +1,13 @@
+disease,fever,cough,headache,fatigue,shortness_of_breath,sore_throat,loss_of_taste,abdominal_pain,dizziness,nausea,chest_pain
+Flu,1,1,1,1,0,1,0,0,0,0,0
+COVID-19,1,1,1,1,1,1,1,0,0,0,0
+Common Cold,1,1,0,0,0,1,0,0,0,0,0
+Migraine,0,0,1,1,0,0,0,0,1,0,0
+Stomach Infection,0,0,0,1,0,0,0,1,0,1,0
+Heart Disease,0,0,1,1,0,0,0,0,0,0,1
+Dengue,1,0,1,1,0,0,0,0,1,1,0
+Pneumonia,1,1,0,1,1,1,0,0,0,0,1
+Bronchitis,1,1,0,1,1,1,0,0,0,0,0
+Typhoid,1,0,1,1,0,0,0,1,0,1,0
+Malaria,1,0,1,1,0,0,0,1,1,1,0
+\end{code}
